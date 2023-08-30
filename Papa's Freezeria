@@ -1,0 +1,15 @@
+<DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title> Papa's Freezeria</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+   <img id="banner" src="banner.jpg">
+   <h1>Sobre a Papa's Freezeria</h1>
+    <p>Localizada no centro da cidade a <strong>Papa's Freezeria</strong> traz o conforto e agilidade nos atendimentos. Fundada em 1989, a Papa's Freezeria já é destaque na cidade e conquista novos clientes a cada dia.</p>
+    <p id="missao"><em>Nossa missão é: <strong>"Proporcionar o melhor atendimento visando o conforto e satisfação de nossos clientes."</strong>.</em></p>
+    <p>Oferecemos profissionais experientes e sempre prontos para te atender da melhor forma possivel. O atendimento possui padrão de excelência e agilidade, garantindo qualidade e satisfação dos nossos clientes e suas familias.</p>
+  </body>
+</html>
